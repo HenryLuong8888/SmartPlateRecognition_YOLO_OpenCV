@@ -25,4 +25,15 @@ This solution is ideal for applications such as:
 - **Model Training:** Train a custom YOLOv8 model for license plate detection.  
 - **Image Preprocessing:** Enhance images for better OCR performance.  
 - **OCR Integration:** Extract text from license plates using OCR models.  
-- **Live Demo:** Real-time license plate recognition using video streams or camera inputs.  
+- **Live Demo:** Real-time license plate recognition using video streams or camera inputs.
+- 
+## Contributors  
+
+We appreciate the hard work and dedication of our collaborators:  
+
+- **Di Liu** - [dliu84](https://github.com/dliu84)  
+- **Cindy Duong** - [CindyDuong5](https://github.com/CindyDuong5)  
+- **Van Tai Huynh** - [VanTaiHuynh](https://github.com/VanTaiHuynh)  
+- **Le Chanh Tin Luong** - [henryluong8888](https://github.com/henryluong8888)  
+
+Thank you for your valuable contributions to this project!  
