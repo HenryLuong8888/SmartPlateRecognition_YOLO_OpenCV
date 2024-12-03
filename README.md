@@ -26,11 +26,12 @@ This solution is ideal for applications such as:
 - **Image Preprocessing:** Enhance images for better OCR performance.  
 - **OCR Integration:** Extract text from license plates using OCR models.  
 - **Live Demo:** Real-time license plate recognition using video streams or camera inputs.
-- 
+
 ## Contributors  
 
-We appreciate the hard work and dedication of our collaborators:  
+We appreciate the hard work and dedication of our collaborators and advisor:  
 
+- **Professor Savita Seharawat** (Advisor, Seneca College, CVI620)  
 - **Di Liu** - [dliu84](https://github.com/dliu84)  
 - **Cindy Duong** - [CindyDuong5](https://github.com/CindyDuong5)  
 - **Van Tai Huynh** - [VanTaiHuynh](https://github.com/VanTaiHuynh)  
