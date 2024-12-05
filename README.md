@@ -29,7 +29,7 @@ This solution is ideal for applications such as:
 
 ## Contributors  
 
-We appreciate the hard work and dedication of our collaborators and advisor:  
+We appreciate the hard work and dedication of our collaborators and instructor:  
 
 - **Professor Savita Seharawat** (Instructor, Seneca Polytechnic, CVI620, 2024 Fall)  
 - **Di Liu** - [dliu84](https://github.com/dliu84)  
