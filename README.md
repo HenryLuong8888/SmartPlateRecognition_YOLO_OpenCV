@@ -31,7 +31,7 @@ This solution is ideal for applications such as:
 
 We appreciate the hard work and dedication of our collaborators and advisor:  
 
-- **Professor Savita Seharawat** (Advisor, Seneca College, CVI620)  
+- **Professor Savita Seharawat** (Instructor, Seneca Polytechnic, CVI620, 2024 Fall)  
 - **Di Liu** - [dliu84](https://github.com/dliu84)  
 - **Cindy Duong** - [CindyDuong5](https://github.com/CindyDuong5)  
 - **Van Tai Huynh** - [VanTaiHuynh](https://github.com/VanTaiHuynh)  
